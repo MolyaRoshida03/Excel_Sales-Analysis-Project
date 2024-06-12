@@ -1,10 +1,10 @@
-# Excel_Sales-Analysis-Project
+#                                                            Excel_Sales-Analysis-Project
 
-# The main virnda store wants to create an annual sales report for 2024 . So that , vrinda can understand their customers and grow more sales in upcomming next year 2025		
+### The main virnda store wants to create an annual sales report for 2024 . So that , vrinda can understand their customers and grow more sales in upcomming next year 2025		
 
-# Here I've tried to help the organisation with my analytical skills and knowledge and fetch relevent insights from the provided data
+##### Here I've tried to help the organisation with my analytical skills and knowledge and fetch relevent insights from the provided data
 
-# These are the process which has been taken place :
+###### These are the process which has been taken place :
  1. Data Cleaning
  2. Data Processing
  3. Data Analysis
